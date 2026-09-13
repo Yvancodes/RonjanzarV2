@@ -1,0 +1,19 @@
+<svg viewBox="0 0 136 104" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="favPurple" x1="0" y1="0" x2="136" y2="104" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a5cd6"/>
+      <stop offset="0.55" stop-color="#6a35a3"/>
+      <stop offset="1" stop-color="#48206f"/>
+    </linearGradient>
+    <linearGradient id="favSheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.4"/>
+      <stop offset="0.55" stop-color="#ffffff" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="1.5" y="1.5" width="133" height="101" rx="18" fill="url(#favPurple)" stroke="#3a1a5e" stroke-width="1.5"/>
+  <rect x="1.5" y="1.5" width="133" height="48" rx="18" fill="url(#favSheen)"/>
+  <text x="15" y="33" font-family="Arial, sans-serif" font-weight="800" font-size="25" letter-spacing="0.5" fill="#4d7fc4">RO</text>
+  <text x="15" y="60" font-family="Arial, sans-serif" font-weight="800" font-size="25" letter-spacing="0.5" fill="#4d7fc4">JAN</text>
+  <text x="15" y="87" font-family="Arial, sans-serif" font-weight="800" font-size="25" letter-spacing="0.5" fill="#4d7fc4">ZAR</text>
+</svg>
